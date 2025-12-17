@@ -1,0 +1,2 @@
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Workout_tracking_app")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Workout_tracking_app.Pages")]
